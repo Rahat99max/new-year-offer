@@ -162,7 +162,7 @@ padding-top: 100px;
 }
 .three-itm p{
     font-size: 20px;
-    color: #070211;
+    color: rgba(7, 2, 17, 0.6);
     margin-top: 22px;
 }
 .round{
@@ -179,4 +179,113 @@ padding-top: 100px;
 }
 .three-itm div{
     flex: 1;
+}
+.holi{
+    width: 1320px;
+    height: 987px;
+}
+.holi-txt{
+    text-align: center;
+
+}
+
+.func{
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+.holi-txt h2{
+    font-size: 72px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.txt{
+    font-size: 20px;
+    font-weight: 500;
+    color: rgba(7, 2, 17, 0.6);
+}
+.holi-img{
+    background-image: url(images/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    display: flex;
+    justify-content: space-around;
+
+}
+.discunt{
+    margin-bottom: 200px;
+    
+}
+.gifts{
+    width: 1320px;
+    height: 1163px;
+}
+.best{
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 16;
+}
+.gifts h3{
+    font-size: 48px;
+    color: #070211;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.details{
+    font-size: 20px;
+    color: rgba(7, 2, 17, 0.6);
+}
+.subscribe{
+    width: 1320px;
+    height: 616px;
+    background-color: rgba(255, 0, 0, 0.05);
+    text-align: center;
+    padding-top: 80px;
+}
+.subscribe h2{
+    font-size: 48px;
+    color: #070211;
+}
+.lab{
+    padding: 28px 100px 28px 50px;
+    background-color: #ff0000;
+    border-radius:0 30px 30px 0;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+input[type="email"]{
+    border: none;
+    width: 648px;
+    height: 72px;
+    font-size: 25px;
+    border-radius: 30px 0 0 30px;
+}
+
+footer{
+    background-color: #070211;
+    color: white;
+    font-size: 24px;
+}
+.foot-top{
+    display: flex;
+    justify-content: space-between;
+    padding: 120px 275px 50px 140px ;
+}
+hr{
+    color: #FFFFFF;
+    margin-left: 140px;
+    margin-right: 275px;
+}
+.soical{
+    text-align: center;
+}
+
+.copy{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 140px;
+    margin-right: 275px;
+    padding-bottom: 150px;
 }
